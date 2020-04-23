@@ -1,4 +1,6 @@
 # mantaray_jupyter
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fmantaray_jupyter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fmantaray_jupyter?ref=badge_shield)
+
 
 The target for the [Mantaray IPython scripts](https://github.com/oceanprotocol/mantaray/tree/develop/ipython_scripts), converted to Jupyter Notebook format. 
 
@@ -43,3 +45,7 @@ for vol in $(kubectl --namespace=jhub2 get persistentvolumes | awk '$6~the_regex
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fmantaray_jupyter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fmantaray_jupyter?ref=badge_large)
